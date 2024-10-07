@@ -125,10 +125,6 @@ skills:
         description: ''
         percent: 70
         icon: circle-stack
-      - name: VHDL
-        description: ''
-        percent: 70
-        icon: circle-stack
 
   - name: Hobbies
     color: '#eeac02'
