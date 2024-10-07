@@ -6,10 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: coffe # emerald
-  font: Rose
-  font_size: xs
-
+  color: emerald
+  font_size: xl
 # SEO
 marketing:
   seo:
