@@ -38,16 +38,7 @@ sections:
   #   #design:
   #   # show_skill_percentage: true
 
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        During my master's program, I had the privilege of specializing in computer vision, culminating in a thesis that focused on an innovative knowledge distillation strategy for image segmentation. Additionally, I gained significant experience in Human Action Recognition and Scene Classification, and I conducted comprehensive experiments with medical image segmentation datasets, including BSUI, TNUI, Synapse, and ISIC (2016, 2017, and 2018). Collectively, these efforts have resulted in several publications, with additional manuscripts currently under revision and in preparation. Through these experiences, I have developed a robust expertise in machine learning, computer vision, image segmentation, image classification, and medical image analysis.
 
-        Feel free to reach out if you're interested in collaborating. I would be glad to discuss potential projects and explore how we can work together! 😃
-    design:
-      columns: '1'
   # - block: collection
   #   id: papers
   #   content:
@@ -69,6 +60,18 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        During my master's program, I specialized in computer vision, culminating in a thesis on an innovative knowledge distillation strategy for image segmentation. I gained experience in Human Action Recognition and Scene Classification, and conducted experiments with medical image segmentation datasets, including BSUI, TNUI, Synapse, and ISIC (2016–2018). These efforts led to several publications, with additional manuscripts currently in preparation or revision. Overall, I have developed strong expertise in machine learning, computer vision, image segmentation, image classification, and medical image analysis.
+
+        Feel free to reach out if you're interested in collaborating. I would be glad to discuss potential projects and explore how we can work together! 😃
+    design:
+      columns: '1'
+      
   # - block: collection
   #   id: talks
   #   content:
