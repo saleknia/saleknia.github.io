@@ -120,7 +120,7 @@ skills:
       - name: Matlab
         description: ''
         percent: 80
-        icon: matlab
+        icon: brands/matlab
       - name: C
         description: ''
         percent: 70
