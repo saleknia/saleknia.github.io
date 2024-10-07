@@ -13,7 +13,7 @@ main:
   - name: Talks
     url: /#talks
     weight: 12
-tittle: Amir Hossein Saleknia
+#tittle: Amir Hossein Saleknia
   # - name: News
   #   url: /#news
   #   weight: 13
