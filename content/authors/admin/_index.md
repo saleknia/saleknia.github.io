@@ -116,15 +116,15 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: brands/matlab_c
+        icon: python
       - name: Matlab
         description: ''
         percent: 80
-        icon: ''
+        icon: matlab
       - name: C
         description: ''
         percent: 70
-        icon: ''
+        icon: c
   - name: Hobby
     color: '#eeac02'
     color_border: '#f0bf23'
