@@ -43,9 +43,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        During my master's program, I specialized in computer vision, culminating in a thesis on an innovative knowledge distillation strategy for image segmentation. I gained extensive experience in Human Action Recognition and Scene Classification, and conducted experiments with medical image segmentation datasets, including BSUI, TNUI, Synapse, and ISIC (2016, 2017, and 2018). These efforts have led to several publications, with more currently under revision and preparation. Overall, I have developed strong expertise in machine learning, computer vision, image segmentation, image classification, and medical image analysis.
         
         Please reach out to collaborate 😃
     design:
