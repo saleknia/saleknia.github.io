@@ -36,7 +36,7 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: True
 
   - block: markdown
     content:
