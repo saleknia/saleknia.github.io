@@ -116,7 +116,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: brands/matlab
+        icon: brands/python
       - name: Matlab
         description: ''
         percent: 80
