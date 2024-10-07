@@ -113,7 +113,7 @@ work:
 skills:
   - name: Technical 
     items:
-      - name: Programming Languages
+      - name: Program
         description: ''
         percent: 80
         icon: code-bracket
