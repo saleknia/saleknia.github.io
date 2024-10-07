@@ -113,18 +113,18 @@ work:
 skills:
   - name: Programming Languages 
     items:
-      - name: Program
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Python
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: ''
+      - name: Matlab
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 80
+        icon: ''
+      - name: C
+        description: ''
+        percent: 70
+        icon: ''
   - name: Hobby
     color: '#eeac02'
     color_border: '#f0bf23'
