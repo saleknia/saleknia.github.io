@@ -141,7 +141,7 @@ skills:
         description: ''
         percent: 80
         icon: github
-        icon_pack: fab
+        icon_pack: faw
       - name: Kaggle
         description: ''
         percent: 90
