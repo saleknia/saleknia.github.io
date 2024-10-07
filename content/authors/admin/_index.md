@@ -141,11 +141,12 @@ skills:
         description: ''
         percent: 80
         icon: github
+        icon_pack: fab
       - name: Kaggle
         description: ''
         percent: 90
         icon: kaggle
-      - name: GoogleColab
+      - name: Google Colab
         description: ''
         percent: 100
         icon: google
