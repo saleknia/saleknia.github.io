@@ -35,8 +35,8 @@ sections:
     content:
       title: Skills
       username: admin
-    design:
-      show_skill_percentage: true
+    #design:
+    # show_skill_percentage: true
 
   - block: markdown
     content:
