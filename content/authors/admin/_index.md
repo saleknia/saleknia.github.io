@@ -113,7 +113,7 @@ work:
 skills:
   - name: Technical 
     items:
-      - name: Python
+      - name: Programming Languages
         description: ''
         percent: 80
         icon: code-bracket
