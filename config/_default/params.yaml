@@ -4,12 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: s
-
+  font_size: L
 # appearance:
 #   mode: system
 #   color: emerald
@@ -33,16 +31,16 @@ marketing:
     baidu: ''
 
 # Site header
-# Site header
-
 header:
   navbar:
     enable: true
-    show_logo: true
-    show_language: false
-    show_day_night: true
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
     show_search: true
-    highlight_active_link: true
+    show_theme_chooser: true
+    logo:
+      text: "Amir Hossein Saleknia"
 
 # Site footer
 footer:
