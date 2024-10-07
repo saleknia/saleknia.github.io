@@ -116,30 +116,30 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: python
+        icon: ''
       - name: Matlab
         description: ''
         percent: 80
-        icon: brands/matlab
+        icon: ''
       - name: C
         description: ''
         percent: 70
-        icon: c
-  - name: Hobby
+        icon: ''
+  - name: AI Frameworks & Libraries
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: PyThorch
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: ''
+      - name: TensorFlow
         description: ''
         percent: 80
+        icon: cat
+      - name: OpenCV
+        description: ''
+        percent: 70
         icon: camera
 
 languages:
