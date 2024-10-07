@@ -78,7 +78,7 @@ education:
     summary: |
       Thesis topic : Design Fractional‑order controller for DC/DC convertors based on Bee Colony Optimization algorithm.
 
-      Supervisor : Dr. AhmadAyatollahi, Full Professor at university of Zanjan.
+      Supervisor : Dr. Abolfazl Jalilvand, Full Professor at university of Zanjan.
 
       GPA: 3.78/4.0
 
