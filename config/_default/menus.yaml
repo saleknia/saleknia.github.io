@@ -11,7 +11,7 @@ main:
     url: /publication
     weight: 11
   - name: CV
-    url: /#talks
+    url: uploads/resume.pdf
     weight: 12
   # - name: News
   #   url: /#news
