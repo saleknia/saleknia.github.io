@@ -37,7 +37,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "     Amir Hossein Saleknia"
-      filename: "icon.png"
+      filename: "image.png"
 
 # Site footer
 footer:
