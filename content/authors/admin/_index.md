@@ -50,6 +50,7 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Efficient Machine Learning
+  - Visual Recognition
   - Medical Image Analysis
 
 education:
