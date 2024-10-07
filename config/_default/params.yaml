@@ -8,7 +8,7 @@ appearance:
   mode: system
   color: emerald
   font: Rose
-  font_size: L
+  font_size: xs
 
 # SEO
 marketing:
