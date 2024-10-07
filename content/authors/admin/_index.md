@@ -130,6 +130,27 @@ skills:
         percent: 75
         icon: ''
   - name: AI Frameworks & Libraries
+    color: '#ffac02'
+    color_border: '#e0bf23'
+    items:
+      - name: Jupyter Notebook
+        description: ''
+        percent: 100
+        icon: ''
+      - name: Github
+        description: ''
+        percent: 80
+        icon: github
+      - name: Kaggle
+        description: ''
+        percent: 90
+        icon: kaggle
+      - name: GoogleColab
+        description: ''
+        percent: 100
+        icon: google
+
+  - name: Platforms & Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
