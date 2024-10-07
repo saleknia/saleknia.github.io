@@ -125,6 +125,10 @@ skills:
         description: ''
         percent: 70
         icon: ''
+      - name: LaTeX
+        description: ''
+        percent: 75
+        icon: ''
   - name: AI Frameworks & Libraries
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -136,11 +140,15 @@ skills:
       - name: TensorFlow
         description: ''
         percent: 80
-        icon: cat
+        icon: ''
       - name: OpenCV
         description: ''
         percent: 70
-        icon: camera
+        icon: ''
+      - name: Numpy
+        description: ''
+        percent: 100
+        icon: ''
 
 languages:
   - name: English
