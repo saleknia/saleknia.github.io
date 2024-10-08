@@ -186,4 +186,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+During my master's program in [Iran University of Science and Technology]('https://www.iust.ac.ir/en'), I specialized in computer vision under the supervision of [Dr. Ahmad Ayatollahi]('https://scholar.google.com/citations?user=KjumZJgAAAAJ&hl=en'). I gained experience in Human Action Recognition and Scene Classification, and conducted experiments with medical image segmentation datasets, including BSUI, TNUI, Synapse, and ISIC (2016–2018). These efforts led to several publications, with additional manuscripts currently in preparation or revision. Overall, I have developed strong expertise in computer vision, image segmentation, knowledge distillation, image classification, and medical image analysis.
