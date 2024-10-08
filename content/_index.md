@@ -52,7 +52,7 @@ sections:
           icon: camera-retro
           icon_pack: fas
     design:
-      position: center
+      columns: '1'
 
 
   # - block: resume-Skills
