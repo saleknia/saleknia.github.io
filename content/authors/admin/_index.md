@@ -135,7 +135,6 @@ skills:
         description: ''
         percent: 80
         icon: brands/scikit
-        icon_pack: faw
       - name: Kaggle
         description: ''
         percent: 90
