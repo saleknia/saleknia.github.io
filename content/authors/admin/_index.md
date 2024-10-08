@@ -145,27 +145,6 @@ skills:
         percent: 100
         icon: google
 
-  - name: Platforms & Tools
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: PyThorch
-        description: ''
-        percent: 100
-        icon: ''
-      - name: TensorFlow
-        description: ''
-        percent: 80
-        icon: ''
-      - name: OpenCV
-        description: ''
-        percent: 70
-        icon: ''
-      - name: Numpy
-        description: ''
-        percent: 100
-        icon: ''
-
 languages:
   - name: English
     percent: 100
