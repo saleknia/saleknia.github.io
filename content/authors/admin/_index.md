@@ -131,10 +131,10 @@ skills:
         description: ''
         percent: 100
         icon: ''
-      - name: Github
+      - name: scikit learn
         description: ''
         percent: 80
-        icon: github
+        icon: brands/scikit
         icon_pack: faw
       - name: Kaggle
         description: ''
