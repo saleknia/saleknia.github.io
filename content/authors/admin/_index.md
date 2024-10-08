@@ -62,7 +62,7 @@ education:
       **Thesis topic :** Development of a method for image segmentation based on knowledge distillation.\
       **Supervisor :** [Dr. Ahmad Ayatollahi](https://scholar.google.com/citations?user=KjumZJgAAAAJ&hl=en), Full Professor at IUST.\
       **GPA :** 4.0/4.0\
-      **Courses included :**\
+      **Courses included :** 
       - Machine Vision 
       - Design Intelligent Systems
     # button:
@@ -73,10 +73,8 @@ education:
     date_start: 2015-09-23
     date_end: 2019-07-04
     summary: |
-      **Thesis topic :** Design Fractional‑order controller for DC/DC convertors based on Bee Colony Optimization algorithm.
-
-      **Supervisor :** Dr. Abolfazl Jalilvand, Full Professor at university of Zanjan.
-
+      **Thesis topic :** Design Fractional‑order controller for DC/DC convertors based on Bee Colony Optimization algorithm.\
+      **Supervisor :** Dr. Abolfazl Jalilvand, Full Professor at university of Zanjan.\
       **GPA :** 3.78/4.0
 
 # work:
