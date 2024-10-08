@@ -103,26 +103,26 @@ education:
 
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Add your own SVG icons to `assets/media/icons/` https://www.svgrepo.com/
 skills:
   - name: Programming Languages 
     items:
       - name: Python
         description: ''
         percent: 100
-        icon: ''
+        icon: brands/python_c
       - name: Matlab
         description: ''
         percent: 80
-        icon: ''
+        icon: brands/matlab_c
       - name: C
         description: ''
         percent: 70
-        icon: ''
+        icon: brands/c_c
       - name: LaTeX
         description: ''
         percent: 75
-        icon: ''
+        icon: brands/latex_c
   - name: AI Frameworks & Libraries
     color: '#ffac02'
     color_border: '#e0bf23'
