@@ -59,7 +59,7 @@ sections:
       title: Skills
       username: admin
     design:
-     show_skill_percentage: false
+     #show_skill_percentage: false
      columns: '2'
 
   # - block: collection
