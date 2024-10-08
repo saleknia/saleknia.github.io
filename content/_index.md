@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 sections:
   - block: resume-biography-3
     content:
@@ -32,7 +32,7 @@ sections:
   - block: features
     content:
       title: Skills
-      # subtitle: Section subtitle
+      subtitle: Skills
       # text: Section text
       items:
         - name: R
