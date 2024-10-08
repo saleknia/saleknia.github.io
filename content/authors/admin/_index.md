@@ -127,22 +127,22 @@ skills:
     color: '#ffac02'
     color_border: '#e0bf23'
     items:
-      - name: Jupyter Notebook
+      - name: pytorch
         description: ''
         percent: 100
         icon: ''
-      - name: scikit learn
+      - name: tnesorflow
         description: ''
         percent: 80
-        icon: brands/scikit
-      - name: Kaggle
+        icon: ''
+      - name: opencv
         description: ''
         percent: 90
         icon: kaggle
-      - name: Google Colab
+      - name: Numpy
         description: ''
         percent: 100
-        icon: google
+        icon: brands/numpy
 
 languages:
   - name: English
