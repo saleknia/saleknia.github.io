@@ -130,15 +130,15 @@ skills:
       - name: pytorch
         description: ''
         percent: 100
-        icon: ''
+        icon: brands/pytorch
       - name: tnesorflow
         description: ''
         percent: 80
-        icon: ''
+        icon: brands/tensorflow
       - name: opencv
         description: ''
         percent: 90
-        icon: kaggle
+        icon: brands/opencv
       - name: Numpy
         description: ''
         percent: 100
