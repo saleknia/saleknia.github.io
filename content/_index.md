@@ -29,38 +29,39 @@ sections:
           position: center
           parallax: false
 
-  - block: features
-    content:
-      title: Skills
-      subtitle: Skills
-      # text: Section text
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-    design:
-      columns: '1'
-
-
-  # - block: resume-Skills
+  # - block: features
   #   content:
   #     title: Skills
-  #     username: admin
-  #   #design:
-  #   # show_skill_percentage: true
+  #     subtitle: Skills
+  #     # text: Section text
+  #     items:
+  #       - name: R
+  #         description: 90%
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: Statistics
+  #         description: 100%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
+  #   design:
+  #     columns: '1'
+
+
+  - block: resume-Skills
+    content:
+      title: Skills
+      username: admin
+    design:
+     show_skill_percentage: false
+
   # - block: collection
   #   id: papers
   #   content:
