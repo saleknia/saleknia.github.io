@@ -59,13 +59,10 @@ education:
     date_start: 2019-09-23
     date_end: 2022-09-12
     summary: |
-      **Thesis topic :** Development of a method for image segmentation based on knowledge distillation.
-
-      **Supervisor :** [Dr. Ahmad Ayatollahi](https://scholar.google.com/citations?user=KjumZJgAAAAJ&hl=en), Full Professor at IUST.
-
-      **GPA :** 4.0/4.0
-
-      **Courses included :**
+      **Thesis topic :** Development of a method for image segmentation based on knowledge distillation.\
+      **Supervisor :** [Dr. Ahmad Ayatollahi](https://scholar.google.com/citations?user=KjumZJgAAAAJ&hl=en), Full Professor at IUST.\
+      **GPA :** 4.0/4.0\
+      **Courses included :**\
       - Machine Vision 
       - Design Intelligent Systems
     # button:
