@@ -54,6 +54,21 @@ sections:
   #   design:
   #     columns: '1'
 
+  - block: markdown
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: |-
+        | Item              | In Stock | Price |
+        | :---------------- | :------: | ----: |
+        | Python Hat        |   True   | 23.99 |
+        | SQL Hat           |   True   | 23.99 |
+        | Codecademy Tee    |  False   | 19.99 |
+        | Codecademy Hoodie |  False   | 42.99 |
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
 
   - block: resume-Skills
     content:
