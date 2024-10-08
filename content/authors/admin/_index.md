@@ -59,13 +59,13 @@ education:
     date_start: 2019-09-23
     date_end: 2022-09-12
     summary: |
-      **Thesis topic:** Development of a method for image segmentation based on knowledge distillation.
+      **Thesis topic :** Development of a method for image segmentation based on knowledge distillation.
 
       **Supervisor:** Dr. Ahmad Ayatollahi, Full Professor at IUST.
 
-      **GPA:** 4.0/4.0
+      **GPA :** 4.0/4.0
 
-      Courses included:
+      **Courses included :**
       - Machine Mision 
       - Design Intelligent Systems
     # button:
@@ -76,11 +76,11 @@ education:
     date_start: 2015-09-23
     date_end: 2019-07-04
     summary: |
-      Thesis topic : Design Fractional‑order controller for DC/DC convertors based on Bee Colony Optimization algorithm.
+      **Thesis topic :** Design Fractional‑order controller for DC/DC convertors based on Bee Colony Optimization algorithm.
 
-      Supervisor : Dr. Abolfazl Jalilvand, Full Professor at university of Zanjan.
+      **Supervisor :** Dr. Abolfazl Jalilvand, Full Professor at university of Zanjan.
 
-      GPA: 3.78/4.0
+      **GPA :** 3.78/4.0
 
 # work:
 #   - position: Director of Cloud Infrastructure
