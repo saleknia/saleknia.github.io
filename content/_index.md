@@ -32,8 +32,8 @@ sections:
   - block: features
     content:
       title: Skills
-      subtitle: Section subtitle
-      text: Section text
+      # subtitle: Section subtitle
+      # text: Section text
       items:
         - name: R
           description: 90%
