@@ -131,7 +131,7 @@ skills:
         description: ''
         percent: 100
         icon: brands/pytorch
-      - name: tnesorflow
+      - name: tensorflow
         description: ''
         percent: 80
         icon: brands/tensorflow
