@@ -29,10 +29,10 @@ sections:
           position: center
           parallax: false
   
-  # - block: resume-skills
-  #   content:
-  #     title: Skills
-  #     username: admin
+  - block: resume-feature
+    content:
+      title: Skills
+      username: admin
   #   #design:
   #   # show_skill_percentage: true
   # - block: collection

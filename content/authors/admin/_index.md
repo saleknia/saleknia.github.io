@@ -101,6 +101,20 @@ education:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+feature:
+  - icon: r-project
+    icon_pack: fab
+    name: R
+    description: 90%
+  - icon: chart-line
+    icon_pack: fas
+    name: Statistics
+    description: 100%
+  - icon: camera-retro
+    icon_pack: fas
+    name: Photography
+    description: 10%
+    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
