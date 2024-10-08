@@ -29,7 +29,7 @@ sections:
           position: center
           parallax: false
   
-  - block: resume-skills
+  - block: resume-features
     content:
       title: Skills
       username: admin
