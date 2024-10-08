@@ -47,6 +47,8 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+    design:
+      columns: 2
 
   # - block: resume-Skills
   #   content:
