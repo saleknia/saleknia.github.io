@@ -101,20 +101,7 @@ education:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-feature:
-  - icon: r-project
-    icon_pack: fab
-    name: R
-    description: 90%
-  - icon: chart-line
-    icon_pack: fas
-    name: Statistics
-    description: 100%
-  - icon: camera-retro
-    icon_pack: fas
-    name: Photography
-    description: 10%
-    
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -221,4 +208,4 @@ awards:
 
 ## About Me
 
-**Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.**
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
