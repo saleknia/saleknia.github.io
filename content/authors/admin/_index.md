@@ -58,7 +58,7 @@ education:
     institution: Iran University of Science and Technology (IUST)
     date_start: 2019-09-23
     date_end: 2022-09-12
-    summary: |
+    summary: |-
       **Thesis topic :** Development of a method for image segmentation based on knowledge distillation.\
       **Supervisor :** [D](https://scholar.google.com/citations?user=KjumZJgAAAAJ&hl=en), Full Professor at IUST.\
       **GPA :** 4.0/4.0\
